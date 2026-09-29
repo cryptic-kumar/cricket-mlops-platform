@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.mlflow/
+mlruns/
+audit/*.log
+*.pyc
+venv/
+__pycache__/
+*.pyc
+.env
+.mlflow/
+audit/
+*.log
+.pytest_cache/
+.idea/
+.vscode/
